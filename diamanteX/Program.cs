@@ -29,7 +29,7 @@ namespace diamanteX
                     {
                         Console.Write(" ");
                     }
-                    //Asteriscos
+                    //Xis
                     for (int i = 1; i <= xis; i++)
                     {
                         Console.Write("X");
@@ -49,7 +49,7 @@ namespace diamanteX
                         Console.Write(" ");
                    }
 
-                   //Asteriscos
+                   //Xis
                     for (int i = 1; i <= xis; i++)
                     {
                        Console.Write("X");
